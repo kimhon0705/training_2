@@ -1,0 +1,17 @@
+tạo repository tên training_2
+
+tạo file README.md và thêm tiêu đề là Hello World
+
+đưa lên repository branch main
+
+tạo branch tên develop 
+
+tạo file index.js
+
+đưa lên repository branch develop
+
+tạo branch tên là feature/1-add-gitignore
+
+tạo file .env
+
+đưa lên repository mà không đưa file .env
